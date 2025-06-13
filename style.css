@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Sevillana&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Sevillana", cursive;
+}
+
+
+
+h1 {
+    background:#0ad5f0;
+    padding: 10px;
+    text-align: center; 
+    color:black
+    font-family: "Merriweather", serif;
+    font-size: 35px;
+    font-weight: bolden;
+}
